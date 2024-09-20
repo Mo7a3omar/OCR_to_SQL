@@ -34,6 +34,9 @@ SQL Database Output:
 
 ![Output](./Final.png)
 
+### Demo Video
+
+https://drive.google.com/drive/folders/10a72gE6xU-Zc6Fh7G4zUKR94F1hE5K_C?usp=sharing
 
 ### Prerequisites
 
